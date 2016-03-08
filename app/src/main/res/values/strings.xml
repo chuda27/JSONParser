@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JSONParser</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_name">JSON Movie</string>
+    <string name="action_refresh">Refresh</string>
+
+    <color name="font_header">#000</color>
+    <color name="font_subheader">#003399</color>
+    <color name="backgound">#ffff</color>
+</resources>
